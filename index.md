@@ -8,10 +8,12 @@ I doing the Cornerstone International Comunity College program, called Web & App
 
 
 ```Experiences
+
 My previous experences and skills:
 
-- Paraná Banco S/A, administrative analyst
-- Paraná Banco S/A, apprentice
+- Paraná Banco S/A, Administrative Analyst   - 2 Years
+- Paraná Banco S/A, Administrative Assistant - 4 Years
+- Paraná Banco S/A, Apprentice               - 1 Year
 
 
 # Methodical
@@ -19,7 +21,7 @@ My previous experences and skills:
 # Pro-active
 # Problem Resolution
 # Work as a team
-# High energy, 
+# High energy
 # Results oriented
 # Curiosity
 
