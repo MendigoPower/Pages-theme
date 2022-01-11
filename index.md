@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome to Gabriel Soares profile page!
 
-You can use the [editor on GitHub](https://github.com/MendigoPower/Pages-theme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Trying to gey my first profile website, using the Github Pages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I doing the Cornerstone International Comunity College program, called Web & App Development, to earn experience enough to apply for a Developer Job in Vancouver. 
 
-### Markdown
+### Experiences and Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```Experiences
+My previous experences and skills:
 
-# Header 1
-## Header 2
-### Header 3
+- Paraná Banco S/A, administrative analyst
+- Paraná Banco S/A, apprentice
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Methodical
+# Fast to learn
+# Pro-active
+# Problem Resolution
+# Work as a team
+# High energy, 
+# Results oriented
+# Curiosity
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## For more details,
 
-### Jekyll Themes
+You can see my social media profiles, such as:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MendigoPower/Pages-theme/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Instagram: https://www.instagram.com/sbsgabriel/
+- Linkedin: https://www.linkedin.com/in/gabriel-soares-802710176/?locale=en_US
+- E-mail: gabrielsoaresb@hotmail.com.br
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you like me and want do know more, i glad receive you for a talk!
+
+Thanks.
