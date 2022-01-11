@@ -1,8 +1,16 @@
 ## Welcome to Gabriel Soares profile page!
 
+ 
+I am 25 years old, born in Brazil, now living in Vancouver, graduated in Business Administration, and now turning the studies to the technology area.
+
+### Some of my hobbies are:
+- Game enthusiastic; thousands of hours playing Witcher 3 and Skyrim;
+- Hardware enthusiastic: i enjoy build and dismantle my PC, to change to better components or just adjust the cable management;
+- Seld-Educated: Go after learning somenthing new by mylself or trying to fix something that is not working properly. 
+
 Trying to gey my first profile website, using the Github Pages.
 
-I doing the Cornerstone International Comunity College program, called Web & App Development, to earn experience enough to apply for a Developer Job in Vancouver. 
+I doing the Cornerstone International Comunity College program, called Web & App Development, to earn experience enough to start a new career and life here in Canadá, working as a Software Developer. 
 
 ### Experiences and Skills
 
